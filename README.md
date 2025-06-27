@@ -34,16 +34,16 @@ Este repositório contém as soluções desenvolvidas para a Lista 4 da discipli
 ## 🖼️ Screenshots
 
 ### Questão 1
-<img src="" alt="Q1" width="600"/>
+<img src="https://github.com/projeto-de-algoritmos-2025/DC_Questoes/blob/main/Imagens/submission_1.png" alt="Q1" width="600"/>
 
 ### Questão 2
-<img src="" alt="Q2" width="600"/>
+<img src="https://github.com/projeto-de-algoritmos-2025/DC_Questoes/blob/main/Imagens/Q1_S.png?raw=true" alt="Q2" width="600"/>
 
 ### Questão 3
 <img src="" alt="Q3" width="600"/>
 
 ### Questão 4
-<img src="" alt="Q3" width="600"/>
+<img src="https://github.com/projeto-de-algoritmos-2025/DC_Questoes/blob/main/Imagens/submission_2.png" alt="Q4" width="600"/>
 
 ## ⚙️ Instalação
 
@@ -73,10 +73,10 @@ Este repositório contém as soluções desenvolvidas para a Lista 4 da discipli
 
 | Questão           | Solução                 | Dificuldade             |
 | ------------------| ----------------------- | ----------------------- |
-| [Questão 1]()| [Solução 1]()| Difícil |
-| [Questão 2]()| [Solução 2]()| Difícil |
-| [Questão 3]()| [Solução 3]()| Medium |
-| [Questão 4]()| [Solução 4]()| Medium |
+| [Questão 1](https://github.com/projeto-de-algoritmos-2025/DC_Questoes/blob/main/Quest%C3%B5es/Quest%C3%A3o_1.md)| [Solução 1](https://github.com/projeto-de-algoritmos-2025/DC_Questoes/tree/main/Solu%C3%A7%C3%A3o)| Difícil |
+| [Questão 2](https://github.com/projeto-de-algoritmos-2025/DC_Questoes/blob/main/Quest%C3%B5es/Quest%C3%A3o_2.md)| [Solução 2](https://github.com/projeto-de-algoritmos-2025/DC_Questoes/blob/main/Solu%C3%A7%C3%A3o/Solucao_2.py)| Medium |
+| [Questão 3](https://github.com/projeto-de-algoritmos-2025/DC_Questoes/blob/main/Quest%C3%B5es/Quest%C3%A3o_2.md)| [Solução 3](https://github.com/projeto-de-algoritmos-2025/DC_Questoes/blob/main/Solução/Solução_3.py)| Difícil |
+| [Questão 4](https://github.com/projeto-de-algoritmos-2025/DC_Questoes/blob/main/Quest%C3%B5es/Quest%C3%A3o_2.md)| [Solução 4](https://github.com/projeto-de-algoritmos-2025/DC_Questoes/blob/main/Solu%C3%A7%C3%A3o/Solu%C3%A7%C3%A3o_3.py)| Medium |
 
 
 <p align="center">
