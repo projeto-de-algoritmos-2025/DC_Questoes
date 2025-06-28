@@ -24,12 +24,15 @@ Este repositório contém as soluções desenvolvidas para a Lista 4 da discipli
 ### 🧠 Conteúdo Abordado
 #### Problemas de agendamento e otimização:
 
-* 
+* Contar o número de inversões em um array.
+
+* Encontrar os K pontos mais próximos da origem.
 
 #### Problemas de seleção e empacotamento:
 
-* 
+* Multiplicação de grandes números representados como strings.
 
+* Encontrar a mediana de dois arrays ordenados.
 
 ## 🖼️ Screenshots
 
