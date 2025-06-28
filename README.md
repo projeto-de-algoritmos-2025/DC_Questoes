@@ -14,7 +14,7 @@
 ## 📽️ Vídeo de explicação
 
 <p align="center">
-  <a href="">🔗 Clique aqui para assistir ao vídeo no YouTube</a>
+  <a href="https://youtu.be/jlwOV6NKc0I">🔗 Clique aqui para assistir ao vídeo no YouTube</a>
 </p>
 
 ## 📌 Sobre
